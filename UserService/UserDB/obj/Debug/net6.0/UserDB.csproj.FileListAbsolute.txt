@@ -1,0 +1,14 @@
+E:\Projects\MicroTest\UserService\UserDB\bin\Debug\net6.0\UserDB.deps.json
+E:\Projects\MicroTest\UserService\UserDB\bin\Debug\net6.0\UserDB.runtimeconfig.json
+E:\Projects\MicroTest\UserService\UserDB\bin\Debug\net6.0\UserDB.dll
+E:\Projects\MicroTest\UserService\UserDB\bin\Debug\net6.0\UserDB.pdb
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\UserDB.csproj.AssemblyReference.cache
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\UserDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\UserDB.AssemblyInfoInputs.cache
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\UserDB.AssemblyInfo.cs
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\UserDB.csproj.CoreCompileInputs.cache
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\UserDB.dll
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\refint\UserDB.dll
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\UserDB.pdb
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\UserDB.genruntimeconfig.cache
+E:\Projects\MicroTest\UserService\UserDB\obj\Debug\net6.0\ref\UserDB.dll

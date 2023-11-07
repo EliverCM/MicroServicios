@@ -1,0 +1,14 @@
+E:\Projects\MicroTest\AccountService\AccountDB\bin\Debug\net6.0\AccountDB.deps.json
+E:\Projects\MicroTest\AccountService\AccountDB\bin\Debug\net6.0\AccountDB.runtimeconfig.json
+E:\Projects\MicroTest\AccountService\AccountDB\bin\Debug\net6.0\AccountDB.dll
+E:\Projects\MicroTest\AccountService\AccountDB\bin\Debug\net6.0\AccountDB.pdb
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\AccountDB.csproj.AssemblyReference.cache
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\AccountDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\AccountDB.AssemblyInfoInputs.cache
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\AccountDB.AssemblyInfo.cs
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\AccountDB.csproj.CoreCompileInputs.cache
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\AccountDB.dll
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\refint\AccountDB.dll
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\AccountDB.pdb
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\AccountDB.genruntimeconfig.cache
+E:\Projects\MicroTest\AccountService\AccountDB\obj\Debug\net6.0\ref\AccountDB.dll
